@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>1.0.1-SNAPSHOT</version>
 	
-	<name>zara-app</name>
+	<name>yizzy-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -136,7 +136,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>/yizzy-app</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -149,7 +149,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>maven-web-application</wtpContextName>
+					<wtpContextName>yizzy-app</wtpContextName>
 				</configuration>
 			</plugin>
 			
