@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.98.95.5:8081/repository/yizzy-release/</url>
+	      <url>http://15.223.47.111:7700/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	     <url>http://3.98.95.5:8081/repository/yizzy-snapshot/</url>
+	     <url>http://15.223.47.111:7700/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 		<!-- <url>http://3.96.54.253:8081/repository/SDM-sundries-snapshot/</url> -->
